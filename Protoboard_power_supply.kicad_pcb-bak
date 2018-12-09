@@ -2,7 +2,7 @@
 
   (general
     (thickness 1.6)
-    (drawings 20)
+    (drawings 19)
     (tracks 109)
     (zones 0)
     (modules 17)
@@ -892,7 +892,7 @@
     )
   )
 
-  (module TO_SOT_Packages_SMD:SOT-223 (layer F.Cu) (tedit 5C0D783B) (tstamp 5C19EE5F)
+  (module TO_SOT_Packages_SMD:SOT-223 (layer F.Cu) (tedit 5C0D783B) (tstamp 5C199F3E)
     (at 175.26 91.44 90)
     (descr "module CMS SOT223 4 pins")
     (tags "CMS SOT")
@@ -1206,9 +1206,6 @@
       (xy -2.2225 3.559306) (xy -2.2225 2.921)) (layer B.SilkS) (width 0.01))
   )
 
-  (gr_text "Protoboard Power Supply\nV1.0" (at 168.656 88.392) (layer B.SilkS) (tstamp 5C19EE18)
-    (effects (font (size 1 1) (thickness 0.12)) (justify mirror))
-  )
   (gr_text www.academiamaker.es (at 177.546 106.68) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.12)))
   )
